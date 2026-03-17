@@ -23,4 +23,3 @@ if(n2==0){
 document.getElementById("result").innerHTML="Result: "+(n1/n2);
 }
 }
-console.log("update")
